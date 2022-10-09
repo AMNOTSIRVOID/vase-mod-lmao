@@ -1,0 +1,16 @@
+{
+	"songs": [
+		{
+			"bpm": 206,
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": null,
+			"char": "balder",
+			"name": "vase",
+			"color": "#2FEB14"
+		}
+	]
+}

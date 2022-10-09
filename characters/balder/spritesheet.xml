@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="balder_assets.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BaldiD0000" x="0" y="0" width="304" height="278" frameX="-1" frameY="-37" frameWidth="306" frameHeight="315"/>
+	<SubTexture name="BaldiD0001" x="304" y="0" width="306" height="277" frameX="0" frameY="-38" frameWidth="306" frameHeight="315"/>
+	<SubTexture name="BaldiD0002" x="610" y="0" width="270" height="310" frameX="-18" frameY="0" frameWidth="306" frameHeight="315"/>
+	<SubTexture name="BaldiD0003" x="880" y="0" width="272" height="310" frameX="-17" frameY="0" frameWidth="306" frameHeight="315"/>
+	<SubTexture name="BaldiD0004" x="610" y="0" width="270" height="310" frameX="-18" frameY="0" frameWidth="306" frameHeight="315"/>
+	<SubTexture name="BaldiD0005" x="880" y="0" width="272" height="310" frameX="-17" frameY="0" frameWidth="306" frameHeight="315"/>
+	<SubTexture name="BaldiD0006" x="610" y="0" width="270" height="310" frameX="-18" frameY="0" frameWidth="306" frameHeight="315"/>
+	<SubTexture name="BaldiD0007" x="880" y="0" width="272" height="310" frameX="-17" frameY="0" frameWidth="306" frameHeight="315"/>
+	<SubTexture name="BaldiD0008" x="610" y="0" width="270" height="310" frameX="-18" frameY="0" frameWidth="306" frameHeight="315"/>
+	<SubTexture name="BaldiD0009" x="880" y="0" width="272" height="310" frameX="-17" frameY="0" frameWidth="306" frameHeight="315"/>
+	<SubTexture name="BaldiD0010" x="610" y="0" width="270" height="310" frameX="-18" frameY="0" frameWidth="306" frameHeight="315"/>
+	<SubTexture name="BaldiD0011" x="880" y="0" width="272" height="310" frameX="-17" frameY="0" frameWidth="306" frameHeight="315"/>
+	<SubTexture name="BaldiD0012" x="610" y="0" width="270" height="310" frameX="-18" frameY="0" frameWidth="306" frameHeight="315"/>
+	<SubTexture name="BaldiD0013" x="880" y="0" width="272" height="310" frameX="-17" frameY="0" frameWidth="306" frameHeight="315"/>
+	<SubTexture name="BaldiL0000" x="1152" y="0" width="198" height="366" frameX="-1" frameY="0" frameWidth="199" frameHeight="367"/>
+	<SubTexture name="BaldiL0001" x="1350" y="0" width="199" height="367"/>
+	<SubTexture name="BaldiL0002" x="1549" y="0" width="188" height="367" frameX="-5" frameY="0" frameWidth="199" frameHeight="367"/>
+	<SubTexture name="BaldiL0003" x="1737" y="0" width="188" height="366" frameX="-5" frameY="0" frameWidth="199" frameHeight="367"/>
+	<SubTexture name="BaldiL0004" x="1549" y="0" width="188" height="367" frameX="-5" frameY="0" frameWidth="199" frameHeight="367"/>
+	<SubTexture name="BaldiL0005" x="1737" y="0" width="188" height="366" frameX="-5" frameY="0" frameWidth="199" frameHeight="367"/>
+	<SubTexture name="BaldiL0006" x="1549" y="0" width="188" height="367" frameX="-5" frameY="0" frameWidth="199" frameHeight="367"/>
+	<SubTexture name="BaldiL0007" x="1737" y="0" width="188" height="366" frameX="-5" frameY="0" frameWidth="199" frameHeight="367"/>
+	<SubTexture name="BaldiL0008" x="1549" y="0" width="188" height="367" frameX="-5" frameY="0" frameWidth="199" frameHeight="367"/>
+	<SubTexture name="BaldiL0009" x="1737" y="0" width="188" height="366" frameX="-5" frameY="0" frameWidth="199" frameHeight="367"/>
+	<SubTexture name="BaldiL0010" x="1549" y="0" width="188" height="367" frameX="-5" frameY="0" frameWidth="199" frameHeight="367"/>
+	<SubTexture name="BaldiL0011" x="1737" y="0" width="188" height="366" frameX="-5" frameY="0" frameWidth="199" frameHeight="367"/>
+	<SubTexture name="BaldiL0012" x="1549" y="0" width="188" height="367" frameX="-5" frameY="0" frameWidth="199" frameHeight="367"/>
+	<SubTexture name="BaldiL0013" x="1737" y="0" width="188" height="366" frameX="-5" frameY="0" frameWidth="199" frameHeight="367"/>
+	<SubTexture name="BaldiR0000" x="1925" y="0" width="237" height="366" frameX="-3" frameY="0" frameWidth="240" frameHeight="366"/>
+	<SubTexture name="BaldiR0001" x="2162" y="0" width="237" height="365" frameX="-3" frameY="0" frameWidth="240" frameHeight="366"/>
+	<SubTexture name="BaldiR0002" x="2399" y="0" width="237" height="366" frameX="0" frameY="0" frameWidth="240" frameHeight="366"/>
+	<SubTexture name="BaldiR0003" x="2636" y="0" width="237" height="365" frameX="0" frameY="0" frameWidth="240" frameHeight="366"/>
+	<SubTexture name="BaldiR0004" x="2399" y="0" width="237" height="366" frameX="0" frameY="0" frameWidth="240" frameHeight="366"/>
+	<SubTexture name="BaldiR0005" x="2636" y="0" width="237" height="365" frameX="0" frameY="0" frameWidth="240" frameHeight="366"/>
+	<SubTexture name="BaldiR0006" x="2399" y="0" width="237" height="366" frameX="0" frameY="0" frameWidth="240" frameHeight="366"/>
+	<SubTexture name="BaldiR0007" x="2636" y="0" width="237" height="365" frameX="0" frameY="0" frameWidth="240" frameHeight="366"/>
+	<SubTexture name="BaldiR0008" x="2399" y="0" width="237" height="366" frameX="0" frameY="0" frameWidth="240" frameHeight="366"/>
+	<SubTexture name="BaldiR0009" x="2636" y="0" width="237" height="365" frameX="0" frameY="0" frameWidth="240" frameHeight="366"/>
+	<SubTexture name="BaldiR0010" x="2399" y="0" width="237" height="366" frameX="0" frameY="0" frameWidth="240" frameHeight="366"/>
+	<SubTexture name="BaldiR0011" x="2636" y="0" width="237" height="365" frameX="0" frameY="0" frameWidth="240" frameHeight="366"/>
+	<SubTexture name="BaldiR0012" x="2399" y="0" width="237" height="366" frameX="0" frameY="0" frameWidth="240" frameHeight="366"/>
+	<SubTexture name="BaldiR0013" x="2636" y="0" width="237" height="365" frameX="0" frameY="0" frameWidth="240" frameHeight="366"/>
+	<SubTexture name="BaldiU0000" x="2873" y="0" width="269" height="423" frameX="-7" frameY="0" frameWidth="280" frameHeight="423"/>
+	<SubTexture name="BaldiU0001" x="3142" y="0" width="270" height="423" frameX="-7" frameY="0" frameWidth="280" frameHeight="423"/>
+	<SubTexture name="BaldiU0002" x="3412" y="0" width="280" height="414" frameX="0" frameY="-9" frameWidth="280" frameHeight="423"/>
+	<SubTexture name="BaldiU0003" x="3692" y="0" width="280" height="414" frameX="0" frameY="-9" frameWidth="280" frameHeight="423"/>
+	<SubTexture name="BaldiU0004" x="3412" y="0" width="280" height="414" frameX="0" frameY="-9" frameWidth="280" frameHeight="423"/>
+	<SubTexture name="BaldiU0005" x="3692" y="0" width="280" height="414" frameX="0" frameY="-9" frameWidth="280" frameHeight="423"/>
+	<SubTexture name="BaldiU0006" x="3412" y="0" width="280" height="414" frameX="0" frameY="-9" frameWidth="280" frameHeight="423"/>
+	<SubTexture name="BaldiU0007" x="3692" y="0" width="280" height="414" frameX="0" frameY="-9" frameWidth="280" frameHeight="423"/>
+	<SubTexture name="BaldiU0008" x="3412" y="0" width="280" height="414" frameX="0" frameY="-9" frameWidth="280" frameHeight="423"/>
+	<SubTexture name="BaldiU0009" x="3692" y="0" width="280" height="414" frameX="0" frameY="-9" frameWidth="280" frameHeight="423"/>
+	<SubTexture name="BaldiU0010" x="3412" y="0" width="280" height="414" frameX="0" frameY="-9" frameWidth="280" frameHeight="423"/>
+	<SubTexture name="BaldiU0011" x="3692" y="0" width="280" height="414" frameX="0" frameY="-9" frameWidth="280" frameHeight="423"/>
+	<SubTexture name="BaldiU0012" x="3412" y="0" width="280" height="414" frameX="0" frameY="-9" frameWidth="280" frameHeight="423"/>
+	<SubTexture name="BaldiU0013" x="3692" y="0" width="280" height="414" frameX="0" frameY="-9" frameWidth="280" frameHeight="423"/>
+	<SubTexture name="Idle0000" x="0" y="423" width="145" height="366"/>
+	<SubTexture name="Idle0001" x="145" y="423" width="145" height="365" frameX="0" frameY="-1" frameWidth="145" frameHeight="366"/>
+	<SubTexture name="Idle0002" x="0" y="423" width="145" height="366"/>
+	<SubTexture name="Idle0003" x="145" y="423" width="145" height="365" frameX="0" frameY="-1" frameWidth="145" frameHeight="366"/>
+	<SubTexture name="Idle0004" x="0" y="423" width="145" height="366"/>
+	<SubTexture name="Idle0005" x="145" y="423" width="145" height="365" frameX="0" frameY="-1" frameWidth="145" frameHeight="366"/>
+	<SubTexture name="Idle0006" x="0" y="423" width="145" height="366"/>
+	<SubTexture name="Idle0007" x="145" y="423" width="145" height="365" frameX="0" frameY="-1" frameWidth="145" frameHeight="366"/>
+	<SubTexture name="Idle0008" x="0" y="423" width="145" height="366"/>
+	<SubTexture name="Idle0009" x="145" y="423" width="145" height="365" frameX="0" frameY="-1" frameWidth="145" frameHeight="366"/>
+	<SubTexture name="Idle0010" x="0" y="423" width="145" height="366"/>
+	<SubTexture name="Idle0011" x="145" y="423" width="145" height="365" frameX="0" frameY="-1" frameWidth="145" frameHeight="366"/>
+	<SubTexture name="Idle0012" x="0" y="423" width="145" height="366"/>
+	<SubTexture name="Idle0013" x="145" y="423" width="145" height="365" frameX="0" frameY="-1" frameWidth="145" frameHeight="366"/>
+	<SubTexture name="vase anim0000" x="290" y="423" width="149" height="365" frameX="-30" frameY="-41" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0001" x="439" y="423" width="149" height="365" frameX="-30" frameY="-41" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0002" x="290" y="423" width="149" height="365" frameX="-30" frameY="-41" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0003" x="439" y="423" width="149" height="365" frameX="-30" frameY="-41" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0004" x="290" y="423" width="149" height="365" frameX="-30" frameY="-41" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0005" x="439" y="423" width="149" height="365" frameX="-30" frameY="-41" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0006" x="290" y="423" width="149" height="365" frameX="-30" frameY="-41" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0007" x="439" y="423" width="149" height="365" frameX="-30" frameY="-41" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0008" x="290" y="423" width="149" height="365" frameX="-30" frameY="-41" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0009" x="439" y="423" width="149" height="365" frameX="-30" frameY="-41" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0010" x="290" y="423" width="149" height="365" frameX="-30" frameY="-41" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0011" x="439" y="423" width="149" height="365" frameX="-30" frameY="-41" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0012" x="588" y="423" width="167" height="365" frameX="-30" frameY="-41" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0013" x="755" y="423" width="168" height="365" frameX="-30" frameY="-41" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0014" x="923" y="423" width="216" height="365" frameX="-30" frameY="-41" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0015" x="1139" y="423" width="237" height="365" frameX="-30" frameY="-41" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0016" x="1376" y="423" width="180" height="365" frameX="-30" frameY="-41" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0017" x="1556" y="423" width="178" height="365" frameX="-30" frameY="-41" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0018" x="1734" y="423" width="178" height="365" frameX="-30" frameY="-41" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0019" x="1912" y="423" width="181" height="365" frameX="-30" frameY="-41" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0020" x="2093" y="423" width="181" height="365" frameX="-30" frameY="-41" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0021" x="2274" y="423" width="182" height="365" frameX="-30" frameY="-41" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0022" x="2456" y="423" width="182" height="365" frameX="-30" frameY="-41" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0023" x="2274" y="423" width="182" height="365" frameX="-30" frameY="-41" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0024" x="2456" y="423" width="182" height="365" frameX="-30" frameY="-41" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0025" x="2638" y="423" width="183" height="365" frameX="-30" frameY="-41" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0026" x="2821" y="423" width="187" height="365" frameX="-30" frameY="-41" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0027" x="3008" y="423" width="187" height="365" frameX="-30" frameY="-41" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0028" x="3195" y="423" width="222" height="365" frameX="-30" frameY="-41" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0029" x="3417" y="423" width="222" height="365" frameX="-30" frameY="-41" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0030" x="3639" y="423" width="227" height="364" frameX="-32" frameY="-42" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0031" x="3866" y="423" width="169" height="364" frameX="-33" frameY="-42" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0032" x="0" y="789" width="145" height="364" frameX="-33" frameY="-42" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0033" x="145" y="789" width="152" height="363" frameX="-33" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0034" x="297" y="789" width="152" height="363" frameX="-33" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0035" x="449" y="789" width="174" height="361" frameX="-14" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0036" x="623" y="789" width="173" height="361" frameX="-15" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0037" x="796" y="789" width="174" height="361" frameX="-14" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0038" x="970" y="789" width="173" height="361" frameX="-15" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0039" x="1143" y="789" width="173" height="361" frameX="-15" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0040" x="1316" y="789" width="168" height="361" frameX="-20" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0041" x="1484" y="789" width="165" height="361" frameX="-23" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0042" x="1649" y="789" width="165" height="361" frameX="-23" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0043" x="1814" y="789" width="166" height="361" frameX="-22" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0044" x="1980" y="789" width="166" height="361" frameX="-22" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0045" x="2146" y="789" width="167" height="361" frameX="-21" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0046" x="2313" y="789" width="168" height="361" frameX="-20" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0047" x="2481" y="789" width="167" height="361" frameX="-21" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0048" x="2648" y="789" width="166" height="361" frameX="-22" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0049" x="2814" y="789" width="168" height="361" frameX="-20" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0050" x="2982" y="789" width="169" height="361" frameX="-19" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0051" x="3151" y="789" width="169" height="361" frameX="-19" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0052" x="3320" y="789" width="171" height="361" frameX="-17" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0053" x="3491" y="789" width="174" height="361" frameX="-14" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0054" x="3665" y="789" width="177" height="361" frameX="-11" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0055" x="3842" y="789" width="188" height="361" frameX="0" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0056" x="0" y="1153" width="182" height="361" frameX="-6" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0057" x="182" y="1153" width="182" height="361" frameX="-6" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0058" x="364" y="1153" width="171" height="362" frameX="-14" frameY="-44" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0059" x="535" y="1153" width="145" height="361" frameX="-39" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0060" x="680" y="1153" width="193" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0061" x="873" y="1153" width="231" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0062" x="1104" y="1153" width="231" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0063" x="1335" y="1153" width="230" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0064" x="1565" y="1153" width="230" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0065" x="1795" y="1153" width="230" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0066" x="2025" y="1153" width="231" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0067" x="2256" y="1153" width="231" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0068" x="2025" y="1153" width="231" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0069" x="2256" y="1153" width="231" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0070" x="2025" y="1153" width="231" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0071" x="2256" y="1153" width="231" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0072" x="2025" y="1153" width="231" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0073" x="2256" y="1153" width="231" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0074" x="2025" y="1153" width="231" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0075" x="2256" y="1153" width="231" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0076" x="2025" y="1153" width="231" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0077" x="2256" y="1153" width="231" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0078" x="2025" y="1153" width="231" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0079" x="2256" y="1153" width="231" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0080" x="2025" y="1153" width="231" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0081" x="2256" y="1153" width="231" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0082" x="2025" y="1153" width="231" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0083" x="2256" y="1153" width="231" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0084" x="2025" y="1153" width="231" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0085" x="2256" y="1153" width="231" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0086" x="2025" y="1153" width="231" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0087" x="2256" y="1153" width="231" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0088" x="2025" y="1153" width="231" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0089" x="2256" y="1153" width="231" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0090" x="2025" y="1153" width="231" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0091" x="2256" y="1153" width="231" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0092" x="2487" y="1153" width="244" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0093" x="2731" y="1153" width="319" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0094" x="3050" y="1153" width="362" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0095" x="3412" y="1153" width="384" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0096" x="0" y="1515" width="426" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0097" x="426" y="1515" width="449" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0098" x="875" y="1515" width="453" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0099" x="1328" y="1515" width="455" height="361" frameX="-40" frameY="-45" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0100" x="1783" y="1515" width="589" height="363" frameX="-44" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0101" x="2372" y="1515" width="499" height="363" frameX="-43" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0102" x="1783" y="1515" width="589" height="363" frameX="-44" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0103" x="2372" y="1515" width="499" height="363" frameX="-43" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0104" x="1783" y="1515" width="589" height="363" frameX="-44" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0105" x="2372" y="1515" width="499" height="363" frameX="-43" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0106" x="1783" y="1515" width="589" height="363" frameX="-44" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0107" x="2372" y="1515" width="499" height="363" frameX="-43" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0108" x="1783" y="1515" width="589" height="363" frameX="-44" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0109" x="2372" y="1515" width="499" height="363" frameX="-43" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0110" x="1783" y="1515" width="589" height="363" frameX="-44" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0111" x="2372" y="1515" width="499" height="363" frameX="-43" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0112" x="2871" y="1515" width="589" height="363" frameX="-44" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0113" x="3460" y="1515" width="499" height="363" frameX="-43" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0114" x="2871" y="1515" width="589" height="363" frameX="-44" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0115" x="3460" y="1515" width="499" height="363" frameX="-43" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0116" x="2871" y="1515" width="589" height="363" frameX="-44" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0117" x="3460" y="1515" width="499" height="363" frameX="-43" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0118" x="2871" y="1515" width="589" height="363" frameX="-44" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0119" x="3460" y="1515" width="499" height="363" frameX="-43" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0120" x="2871" y="1515" width="589" height="363" frameX="-44" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0121" x="3460" y="1515" width="499" height="363" frameX="-43" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0122" x="2871" y="1515" width="589" height="363" frameX="-44" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0123" x="3460" y="1515" width="499" height="363" frameX="-43" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0124" x="0" y="1878" width="589" height="363" frameX="-44" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0125" x="589" y="1878" width="499" height="363" frameX="-43" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0126" x="0" y="1878" width="589" height="363" frameX="-44" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0127" x="589" y="1878" width="499" height="363" frameX="-43" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0128" x="0" y="1878" width="589" height="363" frameX="-44" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0129" x="589" y="1878" width="499" height="363" frameX="-43" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0130" x="0" y="1878" width="589" height="363" frameX="-44" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0131" x="589" y="1878" width="499" height="363" frameX="-43" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0132" x="0" y="1878" width="589" height="363" frameX="-44" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0133" x="589" y="1878" width="499" height="363" frameX="-43" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0134" x="0" y="1878" width="589" height="363" frameX="-44" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0135" x="589" y="1878" width="499" height="363" frameX="-43" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0136" x="1088" y="1878" width="589" height="363" frameX="-44" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0137" x="1677" y="1878" width="499" height="363" frameX="-43" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0138" x="1088" y="1878" width="589" height="363" frameX="-44" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0139" x="1677" y="1878" width="499" height="363" frameX="-43" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0140" x="1088" y="1878" width="589" height="363" frameX="-44" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0141" x="1677" y="1878" width="499" height="363" frameX="-43" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0142" x="1088" y="1878" width="589" height="363" frameX="-44" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0143" x="1677" y="1878" width="499" height="363" frameX="-43" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0144" x="1088" y="1878" width="589" height="363" frameX="-44" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0145" x="1677" y="1878" width="499" height="363" frameX="-43" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0146" x="1088" y="1878" width="589" height="363" frameX="-44" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0147" x="1677" y="1878" width="499" height="363" frameX="-43" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0148" x="2176" y="1878" width="589" height="363" frameX="-44" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0149" x="2765" y="1878" width="499" height="363" frameX="-43" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0150" x="2176" y="1878" width="589" height="363" frameX="-44" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0151" x="2765" y="1878" width="499" height="363" frameX="-43" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0152" x="2176" y="1878" width="589" height="363" frameX="-44" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0153" x="2765" y="1878" width="499" height="363" frameX="-43" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0154" x="2176" y="1878" width="589" height="363" frameX="-44" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0155" x="2765" y="1878" width="499" height="363" frameX="-43" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0156" x="2176" y="1878" width="589" height="363" frameX="-44" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0157" x="2765" y="1878" width="499" height="363" frameX="-43" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0158" x="2176" y="1878" width="589" height="363" frameX="-44" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0159" x="2765" y="1878" width="499" height="363" frameX="-43" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0160" x="3264" y="1878" width="589" height="363" frameX="-44" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0161" x="0" y="2241" width="499" height="363" frameX="-43" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0162" x="3264" y="1878" width="589" height="363" frameX="-44" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0163" x="0" y="2241" width="499" height="363" frameX="-43" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0164" x="3264" y="1878" width="589" height="363" frameX="-44" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0165" x="0" y="2241" width="499" height="363" frameX="-43" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0166" x="3264" y="1878" width="589" height="363" frameX="-44" frameY="-43" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0167" x="499" y="2241" width="494" height="360" frameX="-48" frameY="-46" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0168" x="993" y="2241" width="588" height="360" frameX="-45" frameY="-46" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0169" x="1581" y="2241" width="501" height="360" frameX="-41" frameY="-46" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0170" x="2082" y="2241" width="595" height="359" frameX="-38" frameY="-47" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0171" x="2677" y="2241" width="504" height="359" frameX="-38" frameY="-47" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0172" x="3181" y="2241" width="595" height="359" frameX="-38" frameY="-47" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0173" x="0" y="2604" width="505" height="359" frameX="-37" frameY="-47" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0174" x="505" y="2604" width="230" height="359" frameX="-39" frameY="-47" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0175" x="735" y="2604" width="230" height="359" frameX="-39" frameY="-47" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0176" x="965" y="2604" width="228" height="360" frameX="-41" frameY="-46" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0177" x="1193" y="2604" width="227" height="360" frameX="-46" frameY="-46" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0178" x="1420" y="2604" width="214" height="360" frameX="-52" frameY="-46" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0179" x="1634" y="2604" width="204" height="359" frameX="-49" frameY="-47" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0180" x="1838" y="2604" width="176" height="359" frameX="-55" frameY="-47" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0181" x="2014" y="2604" width="179" height="359" frameX="-52" frameY="-47" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0182" x="2193" y="2604" width="181" height="359" frameX="-50" frameY="-47" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0183" x="2374" y="2604" width="184" height="359" frameX="-49" frameY="-47" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0184" x="2558" y="2604" width="183" height="359" frameX="-49" frameY="-47" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0185" x="2374" y="2604" width="184" height="359" frameX="-49" frameY="-47" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0186" x="2558" y="2604" width="183" height="359" frameX="-49" frameY="-47" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0187" x="2374" y="2604" width="184" height="359" frameX="-49" frameY="-47" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0188" x="2741" y="2604" width="181" height="360" frameX="-51" frameY="-46" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0189" x="2922" y="2604" width="175" height="354" frameX="-53" frameY="-52" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0190" x="3097" y="2604" width="149" height="284" frameX="-48" frameY="-122" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0191" x="3246" y="2604" width="151" height="284" frameX="-49" frameY="-122" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0192" x="3397" y="2604" width="152" height="281" frameX="-48" frameY="-125" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0193" x="3549" y="2604" width="151" height="281" frameX="-49" frameY="-125" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0194" x="3700" y="2604" width="152" height="282" frameX="-48" frameY="-124" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0195" x="3852" y="2604" width="151" height="320" frameX="-49" frameY="-86" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0196" x="0" y="2964" width="146" height="357" frameX="-43" frameY="-49" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0197" x="146" y="2964" width="147" height="391" frameX="-37" frameY="-14" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0198" x="293" y="2964" width="147" height="405" frameX="-43" frameY="-1" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0199" x="440" y="2964" width="147" height="406" frameX="-43" frameY="0" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0200" x="587" y="2964" width="147" height="406" frameX="-43" frameY="0" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0201" x="440" y="2964" width="147" height="406" frameX="-43" frameY="0" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0202" x="587" y="2964" width="147" height="406" frameX="-43" frameY="0" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0203" x="440" y="2964" width="147" height="406" frameX="-43" frameY="0" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0204" x="587" y="2964" width="147" height="406" frameX="-43" frameY="0" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0205" x="440" y="2964" width="147" height="406" frameX="-43" frameY="0" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0206" x="587" y="2964" width="147" height="406" frameX="-43" frameY="0" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0207" x="440" y="2964" width="147" height="406" frameX="-43" frameY="0" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0208" x="587" y="2964" width="147" height="406" frameX="-43" frameY="0" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0209" x="440" y="2964" width="147" height="406" frameX="-43" frameY="0" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0210" x="587" y="2964" width="147" height="406" frameX="-43" frameY="0" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0211" x="440" y="2964" width="147" height="406" frameX="-43" frameY="0" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0212" x="587" y="2964" width="147" height="406" frameX="-43" frameY="0" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0213" x="440" y="2964" width="147" height="406" frameX="-43" frameY="0" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0214" x="587" y="2964" width="147" height="406" frameX="-43" frameY="0" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0215" x="440" y="2964" width="147" height="406" frameX="-43" frameY="0" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0216" x="587" y="2964" width="147" height="406" frameX="-43" frameY="0" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0217" x="440" y="2964" width="147" height="406" frameX="-43" frameY="0" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0218" x="587" y="2964" width="147" height="406" frameX="-43" frameY="0" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0219" x="440" y="2964" width="147" height="406" frameX="-43" frameY="0" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0220" x="587" y="2964" width="147" height="406" frameX="-43" frameY="0" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0221" x="440" y="2964" width="147" height="406" frameX="-43" frameY="0" frameWidth="633" frameHeight="406"/>
+	<SubTexture name="vase anim0222" x="587" y="2964" width="147" height="406" frameX="-43" frameY="0" frameWidth="633" frameHeight="406"/>
+</TextureAtlas>
