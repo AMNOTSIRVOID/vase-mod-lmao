@@ -6,11 +6,18 @@ function create() {
 }
 function createPost() {
    gf.visible = false;
+   camGame.bgColor = 0x002efc;
 }
 function stepHit() {
     switch(curStep){
         case 2:
             dad.playAnim("anger");
+        case 51:
+            boyfriend.playAnim("pre-attack");
+        case 52:
+            boyfriend.playAnim("attack");
+        case 58:
+            FlxG.camera.shake(.05,3);
         case 1988:
             add(walls);
             remove(dad);
