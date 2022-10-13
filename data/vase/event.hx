@@ -10,7 +10,7 @@ function createPost() {
 }
 function stepHit() {
     switch(curStep){
-        case 2:
+        case 1:
             dad.playAnim("anger");
         case 51:
             boyfriend.playAnim("pre-attack");
